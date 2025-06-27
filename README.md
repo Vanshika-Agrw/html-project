@@ -1,2 +1,2 @@
 # html-project
-a tech service company
+A static website for a tech service company
